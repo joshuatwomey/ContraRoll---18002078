@@ -1,0 +1,51 @@
+Initialize engine version: 4.6.0b20 (a3ecf55f1347)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1242]
+    Renderer: AMD Radeon R9 200 Series
+    Vendor:   ATI
+    VRAM:     2034 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Josh\Desktop\TappyPlane-master\ContraRoll_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.974183 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 153.
+Total: 0.876901 ms (FindLiveObjects: 0.006117 ms CreateObjectMapping: 0.011361 ms MarkObjects: 0.230732 ms  DeleteObjects: 0.011944 ms)
+
+UnloadTime: 0.631311 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 1.972883 ms (FindLiveObjects: 0.017479 ms CreateObjectMapping: 0.022723 ms MarkObjects: 0.447773 ms  DeleteObjects: 0.006991 ms)
+
+UnloadTime: 0.928467 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 1.736324 ms (FindLiveObjects: 0.016023 ms CreateObjectMapping: 0.022723 ms MarkObjects: 0.306187 ms  DeleteObjects: 0.006117 ms)
+
+UnloadTime: 0.635098 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 1.786724 ms (FindLiveObjects: 0.018353 ms CreateObjectMapping: 0.022432 ms MarkObjects: 0.297738 ms  DeleteObjects: 0.006117 ms)
+
+UnloadTime: 0.633933 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 159.
+Total: 1.741859 ms (FindLiveObjects: 0.015731 ms CreateObjectMapping: 0.022723 ms MarkObjects: 0.296864 ms  DeleteObjects: 0.006409 ms)
+
